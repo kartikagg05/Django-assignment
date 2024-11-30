@@ -59,3 +59,12 @@ Manage users and service requests through the admin interface.
 2. Service Requests
 Create Request: Customers can submit their requests at /customer_service/create/.
 View Requests: Admins can see a consolidated list at /customer_service/list/.
+
+
+![Screenshot 2024-11-30 185551](https://github.com/user-attachments/assets/4203ad5c-b089-4f65-b6d3-d6124cee39d4)
+
+
+![Screenshot 2024-11-30 185747](https://github.com/user-attachments/assets/db022fd3-5e97-4fa4-a744-779c5e751d59)
+
+
+![Screenshot 2024-11-30 185855](https://github.com/user-attachments/assets/41f86665-51de-49a0-abf6-b3ef0607e430)
